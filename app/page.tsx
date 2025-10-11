@@ -37,7 +37,7 @@ export default function Home() {
 
             {/* Buttons - centered on mobile, left-aligned on desktop */}
             <div className="flex flex-col sm:flex-row gap-5 justify-center lg:justify-start w-full">
-              <Link href="/projects">
+              <Link href="/pages/projects">
                 <Button variant="outline">
                   My Work
                   <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform"/>
