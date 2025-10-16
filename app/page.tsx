@@ -27,12 +27,7 @@ export default function Home() {
             </div>
             
             <p className="text-lg text-muted-foreground max-w-lg leading-relaxed">
-              I am a dedicated Software Developer and Web Application Developer 
-              with a strong focus on creating scalable, 
-              efficient, and user-centered digital solutions. 
-              My work spans both front-end and back-end development, 
-              enabling me to deliver complete applications 
-              that are functional, secure, and visually engaging.
+              I am a dedicated Software and Web Application Developer passionate about building scalable, efficient, and user-focused digital solutions. With expertise across both frontend and backend development, I specialize in creating full-stack applications that combine functionality, performance, and visual appeal. My goal is to deliver modern, secure, and impactful software that enhances user experience and drives innovation.
             </p>
 
             {/* Buttons - centered on mobile, left-aligned on desktop */}
