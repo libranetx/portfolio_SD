@@ -98,7 +98,7 @@ const additionalSkills = [
             {skills.map((skill, index) => (
               <div
                 key={skill.name}
-                className="bg-black/40 backdrop-blur-xl border border-black/60  p-6 rounded-xl text-white "
+                className="bg-black/80 backdrop-blur-xl border border-black/60  p-6 rounded-xl text-white "
               >
                 <div className="flex items-center gap-4 mb-4">
                   <div className="w-12 h-12 bg-primary/20 rounded-lg flex items-center justify-center text-white">
@@ -118,7 +118,7 @@ const additionalSkills = [
             <div></div>
           </div>
 
-          <div className="bg-black/40 backdrop-blur-xl border border-black/60  p-6 rounded-2xl">
+          <div className="bg-black/80 backdrop-blur-xl border border-black/60  p-6 rounded-2xl">
             <div className="text-center mb-8">
               <h2 className="text-3xl font-bold text-gray-200 mb-8">
                 Additional Competencies
