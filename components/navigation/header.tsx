@@ -15,7 +15,7 @@ const Header = () => {
     { href: "/pages/projects", label: "Projects" },
     { href: "/pages/contact", label: "Contact" },
     { href: "/pages/skills", label: "Skills" },
-    { href: "/pages/resume", label: "Resume" },
+    
   ];
 
   // Extracted active link styling logic
