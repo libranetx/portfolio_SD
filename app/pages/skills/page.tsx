@@ -95,7 +95,7 @@ const additionalSkills = [
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16 ">
-            {skills.map((skill, index) => (
+            {skills.map((skill) => (
               <div
                 key={skill.name}
                 className="bg-black/80 backdrop-blur-xl border border-black/60  p-6 rounded-xl text-white "

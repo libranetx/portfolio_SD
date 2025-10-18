@@ -1,8 +1,6 @@
 "use cliant";
 import React from "react";
 import {
-  ArrowRight,
-  Download,
   Github,
   Linkedin,
   Mail,
@@ -25,7 +23,7 @@ const footer = () => {
           </div>
           <div className="text-center md:text-right mr-5">
             <p className="text-muted-foreground mb-4">
-              Let's connect and create something amazing together
+              Let&apos;s connect and create something amazing together
             </p>
             <div className="flex items-center justify-center lg:justify-start space-x-9 pt-8 w-full">
               <a

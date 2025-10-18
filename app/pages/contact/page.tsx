@@ -31,7 +31,7 @@ export default function ContactPage() {
           <div className="text-center mb-16">
             <h1 className="section-title text-gray-200">Get In Touch</h1>
             <p className="section-subtitle mx-auto">
-              Ready to collaborate? Let's discuss your next project and bring your ideas to life
+              Ready to collaborate? Let&apos;s discuss your next project and bring your ideas to life
             </p>
           </div>
 
@@ -95,10 +95,10 @@ export default function ContactPage() {
 
             <div className="space-y-8">
               <div className="bg-black/70 backdrop-blur-xl border border-black/60 p-8 rounded-xl">
-                <h2 className="text-2xl font-bold text-gray-400 mb-6">Let's Connect</h2>
+                <h2 className="text-2xl font-bold text-gray-400 mb-6">Let&apos;s Connect</h2>
                 <p className="text-muted-foreground leading-relaxed mb-8">
-                  I'm always interested in new opportunities and collaborations. Whether you have a project in mind,
-                  need creative consultation, or just want to connect, I'd love to hear from you.
+                  I&apos;m always interested in new opportunities and collaborations. Whether you have a project in mind,
+                  need creative consultation, or just want to connect, I&apos;d love to hear from you.
                 </p>
 
                 <div className="space-y-6">

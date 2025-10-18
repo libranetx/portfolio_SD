@@ -3,8 +3,6 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight, Download, Github, Linkedin, Mail, Twitter } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import image1 from "../../public/imge1.png"
-import image2 from "../../public/image2.png"
 
 export default function Home() {
   return (
@@ -16,7 +14,7 @@ export default function Home() {
           {/* Left content column - centered */}
           <div className="space-y-8 flex flex-col items-center lg:items-start text-center lg:text-left w-full max-w-lg">
             <div className="space-y-8 w-full">
-              <p className="font-mono text-lg uppercase tracking-wider text-gray-500">Hello i'm</p>
+              <p className="font-mono text-lg uppercase tracking-wider text-gray-500">Hello i&apos;m</p>
               <h1 className="text-7xl lg:text-8xl font-bold text-gray-200 leading-tight">
                 Tadios
                 <br />
